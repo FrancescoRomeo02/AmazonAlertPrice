@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# Other stuff
+data.csv
+price_tracker.csv
